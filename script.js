@@ -13,8 +13,3 @@ const computerChoice = () => {
     }
 
 }
-
-computerChoice();
-computerChoice();
-computerChoice();
-computerChoice();
